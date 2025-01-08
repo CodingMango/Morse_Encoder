@@ -7,7 +7,7 @@ Arduino UNO microcontroller is used to encrypt messages.
 
 ![m](https://github.com/user-attachments/assets/03381874-a11c-4bb2-937a-4c2d670482ea)
 
-MESSAGE: Hi I am an ECE Engineer
+_Message:_ Hi I am an ECE Engineer
 ![m1](https://github.com/user-attachments/assets/ee9ba9ad-c4b8-42e8-b3a7-550c4635289b)
 
 Message: Just playing with Arduino UNO
