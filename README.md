@@ -20,3 +20,4 @@ The Logic Behind the Morse Code Encoder is given in the Arduino sketch (file wit
 Here is the simulation of my Arduino project on "Morse Code Encoder" in Wokwi simulator:
 https://wokwi.com/projects/419083685728047105
 
+Happy Learning :)
