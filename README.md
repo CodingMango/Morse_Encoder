@@ -7,7 +7,7 @@ Arduino UNO (microcontroller) is used to encrypt messages.
 
 ![VideoCapture_20250109-103538](https://github.com/user-attachments/assets/30ef8fa4-9eb1-4ab3-b634-023e1e02d9e4)
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 *   **Software/Language:** C++ (Arduino Framework)
 *   **Hardware:** Arduino Uno (or compatible microcontroller), Piezo Buzzer
