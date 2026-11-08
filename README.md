@@ -16,8 +16,8 @@ Arduino UNO (microcontroller) is used to encrypt messages.
 
 ![m](https://github.com/user-attachments/assets/03381874-a11c-4bb2-937a-4c2d670482ea)
 
-## Demo
-<video src="assets/demo_video.mp4" controls="controls" width="100%"> </video>
+## Demo (click the image below)
+[![Morse Code Hardware Demo](https://img.youtube.com/vi/-XiU2IRJeZI/0.jpg)](https://www.youtube.com/watch?v=-XiU2IRJeZI)
 
 ---
 ## Core Logic & Architecture
